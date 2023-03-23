@@ -1,0 +1,139 @@
+{
+   "questions":[
+      {
+         "questions":"What is the highest card in a standard deck of playing cards?",
+         "incorrect_answer":[
+            "King",
+            "Queen",
+            "Jack"
+         ],
+         "correct_answer":"Ace"
+      },
+      {
+         "questions":"In blackjack, what is the name of a hand consisting of an Ace and a 10-value card?",
+         "incorrect_answer":[
+            "Flush",
+            "Full House",
+            "Straight"
+         ],
+         "correct_answer":"Blackjack"
+      },
+      {
+         "questions":"In poker, what is the highest possible hand?",
+         "incorrect_answer":[
+            "Straight",
+            "Flush",
+            "Full House"
+         ],
+         "correct_answer":"Royal Flush"
+      },
+      {
+         "questions":"What is the name of the card game where players try to get as close to 21 as possible without going over?",
+         "incorrect_answer":[
+            "Baccarat",
+            "Roulette",
+            "Craps"
+         ],
+         "correct_answer":"Blackjack"
+      },
+      {
+         "questions":"How many cards are in a standard deck of playing cards?",
+         "incorrect_answer":[
+            "54",
+            "56",
+            "48"
+         ],
+         "correct_answer":"52"
+      },
+      {
+         "questions":"What is the name of the suit represented by a red heart in a deck of playing cards?",
+         "incorrect_answer":[
+            "Clubs",
+            "Diamonds",
+            "Spades"
+         ],
+         "correct_answer":"Hearts"
+      },
+      {
+         "questions":"In baccarat, what is the name of the card that has a value of zero?",
+         "incorrect_answer":[
+            "King",
+            "Queen",
+            "Ten"
+         ],
+         "correct_answer":"Ace"
+      },
+      {
+         "questions":"What is the name of the casino game where players bet on where a small ball will land on a spinning wheel?",
+         "incorrect_answer":[
+            "Craps",
+            "Baccarat",
+            "Keno"
+         ],
+         "correct_answer":"Roulette"
+      },
+      {
+         "questions":"What is the name of the card game where players try to have the lowest score?",
+         "incorrect_answer":[
+            "Rummy",
+            "Poker",
+            "Bridge"
+         ],
+         "correct_answer":"Go Fish"
+      },
+      {
+         "questions":"What is the name of the suit represented by a black spade in a deck of playing cards?",
+         "incorrect_answer":[
+            "Clubs",
+            "Hearts",
+            "Diamonds"
+         ],
+         "correct_answer":"Spades"
+      },
+      {
+         "questions":"In poker, what is the name of a hand consisting of five cards of the same suit?",
+         "incorrect_answer":[
+            "Straight Flush",
+            "Royal Flush",
+            "Full House"
+         ],
+         "correct_answer":"Flush"
+      },
+      {
+         "questions":"In craps, what is the name of the bet where the player wins if the shooter rolls a 7 or 11 on the first roll?",
+         "incorrect_answer":[
+            "Come bet",
+            "Don't pass bet",
+            "Place bet"
+         ],
+         "correct_answer":"Pass line bet"
+      },
+      {
+         "questions":"What is the name of the casino game where players bet on the outcome of a roll of two dice?",
+         "incorrect_answer":[
+            "Baccarat",
+            "Roulette",
+            "Keno"
+         ],
+         "correct_answer":"Craps"
+      },
+      {
+         "questions":"In poker, what is the name of a hand consisting of three cards of the same rank and two cards of a different rank?",
+         "incorrect_answer":[
+            "Full House",
+            "Two Pair",
+            "Straight"
+         ],
+         "correct_answer":"Three of a Kind"
+      },
+      {
+         "questions":"What is the name of the card game where players try to have the highest score by adding up the values of their cards?",
+         "incorrect_answer":[
+            "Blackjack",
+            "Poker",
+            "Bridge"
+         ],
+         "correct_answer":"Baccarat"
+      }
+   ]
+}
